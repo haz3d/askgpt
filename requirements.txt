@@ -1,2 +1,2 @@
-discord
-openai
+discord.py==1.7.3
+openai==0.10.5
